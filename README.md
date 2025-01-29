@@ -1,1 +1,1 @@
-### Studying Redis with a Udemy course: https://ua.udemy.com/course-dashboard-redirect/?course_id=4672206
+### Studying Redis with a Udemy course
